@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-contact-server",
+  "version": "1.0.0",
+  "description": "Node server to send contact form messages via Gmail API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "vercel-dev": "vercel dev"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.2",
+    "googleapis": "^121.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

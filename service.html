@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Service & Pricing Request Form — Nathaniel Lasquety</title>
+  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="service.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+
+<body>
+  <!-- HEADER -->
+  <header>
+    <a href="index.html" class="logo">
+      <img src="image/ChatGPT Image Oct 14, 2025, 12_39_01 PM.png" alt="Logo">
+      Nathaniel Lasquety
+    </a>
+    <button class="burger-menu" id="burgerMenu" aria-label="Toggle menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav class="nav-menu" id="navMenu">
+      <ul class="navmenu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Me</a></li>
+        <li><a href="project.html">Projects</a></li>
+        <li><a href="service.html" class="active">Service</a></li>
+        <li><a href="contacts.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- MAIN CONTENT -->
+  <main>
+    <!-- HERO SECTION -->
+    <section class="services-hero">
+      <div class="services-intro">
+        <div>
+          <h1>Service & Pricing Request Form</h1>
+          <p>👋 Welcome to my official Service & Pricing Request Form!</p>
+          <p>
+            I provide a wide range of <strong>tech and creative services</strong> — including debugging, consulting,
+            web customization, app and game development, system building, thesis/capstone assistance, commissions, and more.
+          </p>
+          <p>
+            💡 Whether you’re a student, developer, or business owner, I’ll help bring your ideas to life with efficiency and creativity.
+          </p>
+          <p class="small">
+            ⚠️ Please take note before submitting: Payment confirmation is required before any project starts.
+            Discounts are available for <strong>students</strong> and <strong>barkada (group)</strong> clients.
+            Fill out all details accurately to receive a proper quotation and next-step instructions.
+          </p>
+        </div>
+      </div>
+
+      <!-- ORDER PANEL -->
+      <div class="discount-panel small">
+        <label for="serviceSelect">Service:</label>
+        <select id="serviceSelect">
+          <option value="debugging">Debugging</option>
+          <option value="consulting">Consulting</option>
+          <option value="customize_website">Website Customization</option>
+          <option value="code">Code (Small Task)</option>
+          <option value="personal">Personal Project</option>
+          <option value="thesis">Thesis & Capstone</option>
+          <option value="commission">Commission</option>
+          <option value="project">General Project</option>
+          <option value="business">Business Project</option>
+          <option value="system">System Build</option>
+          <option value="app">App Development</option>
+          <option value="game">Game Development</option>
+        </select>
+
+        <label for="quantity">Qty / Scope:</label>
+        <input id="quantity" type="number" min="1" value="1">
+
+        <label for="discount">Apply Discount:</label>
+        <select id="discount">
+          <option value="none">None</option>
+          <option value="student">Student -50%</option>
+          <option value="barkada">Barkada -50%</option>
+        </select>
+
+        <div class="total-box">
+          <div class="small total-label">Estimated Total</div>
+          <div id="totalAmount">₱0</div>
+        </div>
+      </div>
+
+      <!-- PRICE LIST (Generated via JS) -->
+      <div class="price-list" id="priceList"></div>
+
+      <!-- ORDER BUTTON -->
+      <div class="order-row">
+        <a id="orderBtn" class="btn-primary" href="#formEmbed">Order & Fill Form</a>
+        <div class="payment-note">
+          💰 Payment first via GCash, Gotaym, and more — details provided after submission.
+        </div>
+      </div>
+
+      <div class="note small">
+        Note: Student and Barkada Discounts are 50% off.  
+        Please pay the quoted amount in full to confirm your booking.
+      </div>
+    </section>
+
+    <!-- WHY CHOOSE ME -->
+    <section class="why-me">
+      <h2>Why Choose My Services?</h2>
+      <div class="reasons">
+        <div class="reason-card">
+          <h3>🚀 Fast & Reliable</h3>
+          <p>Get your projects delivered efficiently without losing quality or precision.</p>
+        </div>
+        <div class="reason-card">
+          <h3>💡 Tailored Solutions</h3>
+          <p>Every service is customized to fit your unique goals, brand, or academic need.</p>
+        </div>
+        <div class="reason-card">
+          <h3>💬 Transparent Communication</h3>
+          <p>Receive updates and honest feedback at every step of your project journey.</p>
+        </div>
+        <div class="reason-card">
+          <h3>🎓 Student-Friendly Pricing</h3>
+          <p>Affordable services with flexible discounts for students and group clients.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- TRUST SECTION -->
+    <section class="trust-section">
+      <h2>Trusted by Developers, Students & Startups</h2>
+      <p class="small">
+        Over dozens of satisfied clients who successfully launched their systems, games, and creative works.
+      </p>
+      <div class="badges">
+        <span><strong id="projectsCount">0</strong>+ Projects Completed</span>
+        <span><strong id="ratingCount">0</strong>★ Client Rating</span>
+        <span><strong id="satisfactionCount">0</strong>% Satisfaction</span>
+      </div>
+    </section>
+
+    <!-- GOOGLE FORM EMBED -->
+    <section class="form-embed" id="formEmbed">
+      <h2>📋 Request Your Service Now</h2>
+      <p class="small">
+        Fill out this form to request a project quote or commission.  
+        You’ll receive full details and payment instructions within 24 hours.
+      </p>
+
+      <!-- ✅ Replace this URL with your real Google Form -->
+      <iframe 
+        src="https://docs.google.com/forms/d/e/1FAIpQLSeD_OPyNbcXkJGF3fXb1ChBMFF_zLYtUxf7uK-nd9jv7gqaug/viewform?embedded=true"
+        width="100%" height="950" frameborder="0" marginheight="0" marginwidth="0"
+        style="border: 2px solid #1e293b; border-radius: 12px; background-color: #0f172a;">
+        Loading form…
+      </iframe>
+
+      <div class="form-note small">
+        📝 Tip: You can also open this form in a new tab if it doesn’t load properly.  
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeD_OPyNbcXkJGF3fXb1ChBMFF_zLYtUxf7uK-nd9jv7gqaug/viewform?usp=header"
+           target="_blank" class="accent-link">Open Google Form ↗</a>
+      </div>
+    </section>
+
+    <!-- PAYMENT SECTION -->
+    <section class="payment-section" id="contact">
+      <h2>Payment & Contact</h2>
+      <p class="small">
+        Accepted: <strong>GCash, Gotaym</strong>, and other e-wallets upon request.  
+        After submitting the order form, you’ll receive detailed payment instructions.  
+       Questions? 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nathaniellasquety2024@gmail.com" 
+   target="_blank" 
+   class="accent-link">Email me</a> 
+or message directly after submission.
+      </p>
+    </section>
+  </main>
+
+  <!-- SCRIPTS -->
+  <script src="service.js" defer></script>
+  <script>
+    // ===== Animated Counters =====
+    const counters = [
+      { id: "projectsCount", end: 50, speed: 40 },
+      { id: "ratingCount", end: 5, speed: 200 },
+      { id: "satisfactionCount", end: 100, speed: 20 },
+    ];
+
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          counters.forEach(c => {
+            let num = 0;
+            const el = document.getElementById(c.id);
+            const update = setInterval(() => {
+              num++;
+              el.textContent = num;
+              if (num >= c.end) clearInterval(update);
+            }, c.speed);
+          });
+          observer.disconnect();
+        }
+      });
+    });
+
+    observer.observe(document.querySelector(".trust-section"));
+  </script>
+</body>
+</html>
