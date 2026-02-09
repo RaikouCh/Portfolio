@@ -166,4 +166,5 @@ Junior Full-Stack Web Developer skilled in PHP, JavaScript, SQL, and responsive 
 📧 Email: nathaniellasquety2024@gmail.com
 
 🌐 Portfolio: https://nathanielportfolio.vercel.app
-💻 GitHub: github.com/RaikouCh
+
+💻 GitHub: https://github.com/RaikouCh
