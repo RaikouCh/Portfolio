@@ -1,4 +1,5 @@
 👋 Hi, I’m Nathaniel Lasquety
+
 🚀 About Me
 
 I am an aspiring Full-Stack Developer and Computer Science graduate passionate about building innovative projects—especially games, websites, and interactive applications. Proficient in web, application, and software development, I focus on creating seamless, engaging, and user-centered digital experiences.
