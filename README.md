@@ -2,7 +2,7 @@
 
 🚀 About Me
 
-I am an aspiring Full-Stack Developer and Computer Science graduate passionate about building innovative projects—especially games, websites, and interactive applications. Proficient in web, application, and software development, I focus on creating seamless, engaging, and user-centered digital experiences.
+I am an aspiring Full-Stack Developer and Computer Science graduate passionate about building innovative projects especially games, websites, and interactive applications. Proficient in web, application, and software development, I focus on creating seamless, engaging, and user-centered digital experiences.
 
 I am always eager to learn, grow, and collaborate, continuously improving my technical, creative, and problem-solving skills. I enjoy turning ideas into functional, interactive, and visually appealing solutions while adapting to new technologies and development tools.
 
