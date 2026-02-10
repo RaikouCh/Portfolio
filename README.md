@@ -1,171 +1,31 @@
-👋 Hi, I’m Nathaniel Lasquety
+# 💫 About Me:
+👋 Hi, I’m Nathaniel Lasquety<br><br>🚀 About Me<br><br>I am an aspiring Full-Stack Developer and Computer Science graduate passionate about building innovative projects especially games, websites, and interactive applications. Proficient in web, application, and software development, I focus on creating seamless, engaging, and user-centered digital experiences.<br><br>I am always eager to learn, grow, and collaborate, continuously improving my technical, creative, and problem-solving skills. I enjoy turning ideas into functional, interactive, and visually appealing solutions while adapting to new technologies and development tools.<br><br>Feel free to contact me for opportunities, collaborations, or to learn more about my work.<br><br>💡 Interests & Hobbies<br><br>🎮 Gaming<br><br>🎵 Music<br><br>📺 Watching (Media, Tech & Entertainment)<br><br>🛠️ Repairing & Troubleshooting<br><br>💻 Coding & Programming<br><br>🎨 Digital Art & Design<br><br>🎥 Video Editing<br><br>🔧 System & Hardware Repair<br><br>🚀 Exploring New Technologies<br><br>📚 Continuous Learning<br><br>🛠️ Complete Tech Stack 💻 Programming Languages<br><br>JavaScript<br><br>Python<br><br>Java<br><br>C++<br><br>PHP<br><br>SQL<br><br>🌐 Web & Software Development<br><br>HTML5<br><br>CSS3<br><br>JavaScript (DOM, UI Interactions)<br><br>PHP (Backend Logic & APIs)<br><br>MySQL (Database Design & Queries)<br><br>Basic Node.js<br><br>RESTful Concepts<br><br>🎮 Game Development & 3D Tools<br><br>Unity (2D & 3D Game Development)<br><br>Blender (Basic 3D Modeling & Assets)<br><br>Game Mechanics & Logic<br><br>Player Interaction Systems<br><br>Creative Coding<br><br>🎨 Design, Editing & Creative Tools<br><br>Adobe Photoshop<br><br>Figma<br><br>Canva<br><br>IbisPaint<br><br>PicsArt<br><br>CapCut<br><br>UI/UX Design<br><br>Graphic Design & Layout<br><br>Video Editing (Basic to Intermediate)<br><br>⚙️ Tools, Platforms & Technologies<br><br>Git & GitHub<br><br>Visual Studio Code<br><br>Vercel (Deployment)<br><br>000WebHost<br><br>Database-Driven Systems<br><br>Basic API Integration<br><br>📌 What I Do<br><br>Build responsive and dynamic websites<br><br>Develop full-stack applications<br><br>Create interactive systems and games<br><br>Design UI/UX interfaces and visual assets<br><br>Debug, test, and maintain software<br><br>Work with multimedia and creative coding<br><br>Repair and troubleshoot software & systems<br><br>📂 Featured Projects<br><br>Web-Based Apartment Management System A full-stack platform featuring registration, reservations, payments, and admin control.<br><br>Personal Portfolio Website A responsive portfolio showcasing skills, projects, and contact functionality.<br><br>Game Prototypes & Interactive Applications Unity-based experiments focusing on gameplay mechanics and user interaction.<br><br>More projects coming soon 🚧<br><br>🎯 Career Objective<br><br>To secure a role as a Junior Full-Stack Developer or Game Developer where I can grow professionally, learn from experienced team members, and contribute to a company that values innovation, creativity, and continuous improvement.<br><br>🧩 Taglines<br><br>Short:<br><br>Building interactive digital experiences through code and creativity.<br><br>Alternative:<br><br>Where creativity meets technology.<br><br>🌐 Short Bio (LinkedIn / Portfolio Header)<br><br>Computer Science graduate and aspiring Full-Stack & Game Developer passionate about creating interactive applications, games, and user-focused digital solutions. Always learning, building, and improving.<br><br>🎮 Game Developer Bio<br><br>Aspiring Game Developer with experience in Unity and Blender, focused on interactive mechanics, creative coding, and immersive digital experiences.<br><br>🌍 Web Developer Bio<br><br>Junior Full-Stack Web Developer skilled in PHP, JavaScript, SQL, and responsive web design, focused on scalable, user-friendly applications.<br><br>📫 Contact<br><br>📧 Email: nathaniellasquety2024@gmail.com<br><br>🌐 Portfolio: https://nathanielportfolio.vercel.app<br><br>💻 GitHub: https://github.com/RaikouCh
 
-🚀 About Me
 
-I am an aspiring Full-Stack Developer and Computer Science graduate passionate about building innovative projects especially games, websites, and interactive applications. Proficient in web, application, and software development, I focus on creating seamless, engaging, and user-centered digital experiences.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nathaniel Lasquety) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nathaniel-lasquety-b31b21364) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nathaniellasquety2024@gmail.com) 
 
-I am always eager to learn, grow, and collaborate, continuously improving my technical, creative, and problem-solving skills. I enjoy turning ideas into functional, interactive, and visually appealing solutions while adapting to new technologies and development tools.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RaikouCh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RaikouCh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaikouCh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Feel free to contact me for opportunities, collaborations, or to learn more about my work.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RaikouCh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-💡 Interests & Hobbies
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🎮 Gaming
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RaikouCh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-🎵 Music
+---
+[![](https://visitcount.itsvg.in/api?id=RaikouCh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-📺 Watching (Media, Tech & Entertainment)
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Nathaniel Lasquety) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Nathaniel Lasquety) 
 
-🛠️ Repairing & Troubleshooting
-
-💻 Coding & Programming
-
-🎨 Digital Art & Design
-
-🎥 Video Editing
-
-🔧 System & Hardware Repair
-
-🚀 Exploring New Technologies
-
-📚 Continuous Learning
-
-🛠️ Complete Tech Stack
-💻 Programming Languages
-
-JavaScript
-
-Python
-
-Java
-
-C++
-
-PHP
-
-SQL
-
-🌐 Web & Software Development
-
-HTML5
-
-CSS3
-
-JavaScript (DOM, UI Interactions)
-
-PHP (Backend Logic & APIs)
-
-MySQL (Database Design & Queries)
-
-Basic Node.js
-
-RESTful Concepts
-
-🎮 Game Development & 3D Tools
-
-Unity (2D & 3D Game Development)
-
-Blender (Basic 3D Modeling & Assets)
-
-Game Mechanics & Logic
-
-Player Interaction Systems
-
-Creative Coding
-
-🎨 Design, Editing & Creative Tools
-
-Adobe Photoshop
-
-Figma
-
-Canva
-
-IbisPaint
-
-PicsArt
-
-CapCut
-
-UI/UX Design
-
-Graphic Design & Layout
-
-Video Editing (Basic to Intermediate)
-
-⚙️ Tools, Platforms & Technologies
-
-Git & GitHub
-
-Visual Studio Code
-
-Vercel (Deployment)
-
-000WebHost
-
-Database-Driven Systems
-
-Basic API Integration
-
-📌 What I Do
-
-Build responsive and dynamic websites
-
-Develop full-stack applications
-
-Create interactive systems and games
-
-Design UI/UX interfaces and visual assets
-
-Debug, test, and maintain software
-
-Work with multimedia and creative coding
-
-Repair and troubleshoot software & systems
-
-📂 Featured Projects
-
-Web-Based Apartment Management System
-A full-stack platform featuring registration, reservations, payments, and admin control.
-
-Personal Portfolio Website
-A responsive portfolio showcasing skills, projects, and contact functionality.
-
-Game Prototypes & Interactive Applications
-Unity-based experiments focusing on gameplay mechanics and user interaction.
-
-More projects coming soon 🚧
-
-🎯 Career Objective
-
-To secure a role as a Junior Full-Stack Developer or Game Developer where I can grow professionally, learn from experienced team members, and contribute to a company that values innovation, creativity, and continuous improvement.
-
-🧩 Taglines
-
-Short:
-
-Building interactive digital experiences through code and creativity.
-
-Alternative:
-
-Where creativity meets technology.
-
-🌐 Short Bio (LinkedIn / Portfolio Header)
-
-Computer Science graduate and aspiring Full-Stack & Game Developer passionate about creating interactive applications, games, and user-focused digital solutions. Always learning, building, and improving.
-
-🎮 Game Developer Bio
-
-Aspiring Game Developer with experience in Unity and Blender, focused on interactive mechanics, creative coding, and immersive digital experiences.
-
-🌍 Web Developer Bio
-
-Junior Full-Stack Web Developer skilled in PHP, JavaScript, SQL, and responsive web design, focused on scalable, user-friendly applications.
-
-📫 Contact
-
-📧 Email: nathaniellasquety2024@gmail.com
-
-🌐 Portfolio: https://nathanielportfolio.vercel.app
-
-💻 GitHub: https://github.com/RaikouCh
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
